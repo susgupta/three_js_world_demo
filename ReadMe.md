@@ -4,7 +4,7 @@ Sushil G WebGL - ThreeJS SkyBox Demo is demo on WebGL technology. This demo is u
 
 Three.js is a cross-browser JavaScript library and Application Programming Interface (API) used to create and display animated 3D computer graphics in a web browser. Three.js uses **WebGL**.
 
-This particular example is a 'world demo' aka a skybox demo.  Can use mouse/touch movement to view as **3D environment**.  
+This particular example is a 'world demo' aka a skybox demo.  Can use mouse/touch movement to scroll around as **3D environment**.  
 
 ## Technologies Used
 
